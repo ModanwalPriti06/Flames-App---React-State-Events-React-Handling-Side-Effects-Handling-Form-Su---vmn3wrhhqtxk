@@ -71,7 +71,7 @@ class App extends Component {
    
 
     return (
-      <div>
+   //   <div>
       <Flames />
 //         <input
 //           type="text"
@@ -96,7 +96,7 @@ class App extends Component {
 //           Clear
 //         </button>
 //         <h3 data-testid="answer">{result}</h3>
-      </div>
+     // </div>
 );
 
 
